@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	string a;
+	string a, b;
 	cin >> a;
 	if (a == "exit")
 		EXIT(100);
